@@ -18,6 +18,8 @@ Big thanks to Daniel Theobald for funding the work.
 
 This work is licensed CC0 aka Public Domain. Use this information for any purpose.
 
-![odrive_encoder_adapter_3d_render](odrive_encoder_adapter_3d_render.png)
-![odrive_encoder_adapter_layout](odrive_encoder_adapter_layout.png)
-![odrive_encoder_adapter_schematic](odrive_encoder_adapter_schematic.png)
+![odrive_encoder_adapter_photo_1](doc/odrive_encoder1.jpg)
+![odrive_encoder_adapter_photo_2](doc/odrive_encoder2.jpg)
+![odrive_encoder_adapter_3d_render](doc/odrive_encoder_adapter_3d_render.png)
+![odrive_encoder_adapter_layout](doc/odrive_encoder_adapter_layout.png)
+![odrive_encoder_adapter_schematic](doc/odrive_encoder_adapter_schematic.png)
